@@ -1,0 +1,22 @@
+{
+  "name": "vsmeld",
+  "version": "1.0.0",
+  "description": "Just like meld,a three code meld tool in vs code",
+  "main": "index.js",
+  "scripts": {
+    "yo": "yo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zjjott/vsmeld.git"
+  },
+  "keywords": [
+    "vscode"
+  ],
+  "author": "zjjott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjjott/vsmeld/issues"
+  },
+  "homepage": "https://github.com/zjjott/vsmeld#readme"
+}
